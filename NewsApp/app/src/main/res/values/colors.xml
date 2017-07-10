@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#545454</color>
+    <color name="colorAccent">#F41B27</color>
+    <color name="background">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimaryLight">#9FA8DA</color>
+
+    <color name="text_background">#75000000</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#FFFFFF</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#000000</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#F41B27</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#b3b3b3</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+    <color name="background_material_dark">@color/material_grey_850</color>
+    <color name="background_material_light">@color/material_grey_50</color>
+    <color name="ItemClicke">#bdbdbd</color>
+    <color name="linktext">#018eec</color>
+    <color name="offerbackground">#d8f22809</color>
+    <color name="boticon">#999ba4ab</color>
+    <color name="searchactivity">#99d8dcdf</color>
+    <color name="Tex">#ff404547</color>
+    <color name="MainBackground">#d1e2ecf1</color>
+    <color name="White">#ffffffff</color>
+    <color name="grey">#d3d3d3</color>
+    <color name="Black">@android:color/black</color>
+    <color name="abc_search_url_text_normal">#ff7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="background_floating_material_dark">@color/material_grey_800</color>
+    <color name="background_floating_material_light">@android:color/white</color>
+    <color name="bglist">#fff8f8f8</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="boticoncolor">#ff24bdb6</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light
+    </color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark
+    </color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="category_textcolour">#ff404547</color>
+    <color name="cattextcolour">#ffffffff</color>
+    <color name="colorbutton">#ffff5254</color>
+    <color name="colordevider">#fff1f2f4</color>
+    <color name="colorhint">#ffa9aaac</color>
+    <color name="colortext">#ff100b20</color>
+    <color name="common_action_bar_splitter">#ffd2d2d2</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+
+    <color name="common_plus_signin_btn_text_dark_disabled">#ffaaaaaa</color>
+
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+
+    <color name="common_plus_signin_btn_text_light_default">#ff737373</color>
+
+    <color name="common_plus_signin_btn_text_light_disabled">#ffaaaaaa</color>
+
+    <color name="common_plus_signin_btn_text_light_focused">#ff737373</color>
+
+    <color name="common_plus_signin_btn_text_light_pressed">#de000000</color>
+
+    <color name="design_fab_shadow_end_color">@android:color/transparent</color>
+
+    <color name="design_fab_shadow_mid_color">#14000000</color>
+
+    <color name="design_fab_shadow_start_color">#44000000</color>
+
+    <color name="design_fab_stroke_end_inner_color">#0a000000</color>
+
+    <color name="design_fab_stroke_end_outer_color">#0f000000</color>
+
+    <color name="design_fab_stroke_top_inner_color">#1affffff</color>
+
+    <color name="design_fab_stroke_top_outer_color">#2effffff</color>
+
+    <color name="design_snackbar_background_color">#ff323232</color>
+
+    <color name="design_textinput_error_color_dark">#ffff6e6e</color>
+
+    <color name="design_textinput_error_color_light">#ffd50000</color>
+
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="ddd">#3500d4</color>
+    <color name="divider">#ff677174</color>
+
+    <color name="droverbackground">#0d917b</color>
+
+    <color name="droverbackground1">#ff1bac94</color>
+
+    <color name="avecolor">#9D2BA0</color>
+
+    <color name="drovercolour">#ff6e6e6d</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="global_color_green_accent">#ffffc107</color>
+
+    <color name="global_color_green_control_activated">#ffffc107</color>
+
+    <color name="global_color_green_primary">#ff4caf50</color>
+
+    <color name="global_color_green_primary_dark">#e5079f42</color>
+
+    <color name="global_color_green_primary_light">#ffc8e6c9</color>
+
+    <color name="global_color_primary_light">#fff5f5f5</color>
+
+    <color name="green">#ff5ccc78</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark
+    </color>
+
+    <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light
+    </color>
+
+    <color name="iconcolour">#ff9ba4ab</color>
+
+    <color name="light_green">#1c1c1c</color>
+
+    <color name="material_blue_grey_800">#ff37474f</color>
+
+    <color name="material_blue_grey_900">#ff263238</color>
+
+    <color name="material_blue_grey_950">#ff21272b</color>
+
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+
+    <color name="material_deep_teal_500">#000</color>
+
+    <color name="material_grey_100">#fff5f5f5</color>
+
+    <color name="material_grey_300">#ffe0e0e0</color>
+
+    <color name="material_grey_50">#fffafafa</color>
+
+    <color name="material_grey_600">#ff757575</color>
+
+    <color name="material_grey_800">#ff424242</color>
+
+    <color name="material_grey_850">#ff303030</color>
+
+    <color name="material_grey_900">#ff212121</color>
+
+    <color name="primary_dark_material_dark">@android:color/black</color>
+
+    <color name="primary_dark_material_light">@color/material_grey_600</color>
+
+    <color name="primary_material_dark">@color/material_grey_900</color>
+
+    <color name="primary_material_light">@color/material_grey_100</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+
+    <color name="primary_text_default_material_light">#de000000</color>
+
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+
+    <color name="primary_text_disabled_material_light">#39000000</color>
+
+    <color name="red">#ffea495f</color>
+
+    <color name="ripple_material_dark">#33ffffff</color>
+
+    <color name="ripple_material_light">#1f000000</color>
+
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+
+    <color name="secondary_text_default_material_light">#8a000000</color>
+
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+
+    <color name="strok">#ffe4e5ea</color>
+
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="textSub">#ff76818a</color>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#ffbebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#ff323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#ff808080</color>
+    <color name="wallet_hint_foreground_holo_light">#ff808080</color>
+    <color name="wallet_holo_blue_light">#000</color>
+    <color name="wallet_link_text_light">#ff0000ee</color>
+    <color name="white_my">#ffffffff</color>
+    <color name="yellow">#fff8d64e</color>
+
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary">#E43F3F</color>
+</resources>
